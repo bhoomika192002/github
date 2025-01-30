@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Creative Page</title>
+    <style>body{font-family:Arial,sans-serif;text-align:center;padding:20px;background:#f0f8ff;}h1{color:#4CAF50;}p{color:#555;}a{background:#4CAF50;color:white;padding:15px 32px;border-radius:5px;text-decoration:none;transition:0.3s;}a:hover{background:#45a049;}</style>
+</head>
+<body>
+    <h1>Welcome!</h1><p>Simple HTML styling.</p><a href="#">Click Me!</a>
+</body>
+</html>
